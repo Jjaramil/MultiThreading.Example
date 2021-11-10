@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MyDIckwPlTZlnjEXVtGt+vDEai9MJPvT30bhFgYZzL8KRiJMgQ6UktHLJBPdvGx6AABbjmWL2nrz3UO0lZGKrw==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\MultiThreading.Example\\MultiThreading.Example\\MultiThreading.Example.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
